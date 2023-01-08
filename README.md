@@ -30,7 +30,7 @@ const Vighnesh = {
     pronouns: "He" | "Him",
     nickname: "Vicky",
     tendsToOveruse: ["Python", "Java"],
-    mostProudAbout: ["Publishing a book chapter at 20", "playstore app with 1000s of users", "driving to nature spots exhaustively"] // Note to Devs: some bad behavious due to overconfidence
+    mostProudAbout: ["Publishing a book chapter at 20", "playstore app with 1000s of users", "driving to nature spots exhaustively"], // Note to Devs: some bad behavious due to overconfidence
     
     askMeAbout: ["Forecasting", "Deep Learning", "tech", "app dev", "Weekend Trip Ideas"],
 
