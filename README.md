@@ -51,3 +51,17 @@ const Vighnesh = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+### 👨‍💻 My Work
+
+Most of my work is in private GitLab Repos the different organizations I work for. So I would like to redirect you to my [resume](https://vighneshnatarajanganesh.github.io/personal-website/pdfs/resume_data_science.pdf) / [personal website](https://vighneshnatarajanganesh.github.io/personal-website/). 
+
+But if you'd like to, you could take a look at these!
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSSGxUK&repo=bmwi)](https://github.com/DSSGxUK/bmwi)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitssmac&repo=smacOnline)](https://github.com/bitssmac/smacOnline)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VighneshNatarajanGanesh&repo=Trigger_word_detection)](https://github.com/VighneshNatarajanGanesh/Trigger_word_detection)
