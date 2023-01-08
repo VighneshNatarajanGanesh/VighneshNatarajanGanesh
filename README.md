@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvighnesh@gmail.com?cc=f20190131@pilani.bits-pilani.ac.in;vighneshnganeshofficial@gmail.com)
 ![Website](https://img.shields.io/website?logo=googleearth&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fvighneshnatarajanganesh.github.io%2Fpersonal-website%2F)
 
-<img align='right' src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230">
+<br>
 
 ## Visiting Researcher, London Business School
 ----------------------------------------------------
@@ -17,7 +17,9 @@ I am Vighnesh N Ganesh
  - 📱 Made a privacy focused chat app with 1000s of users [Playstore Listing](https://play.google.com/store/apps/details?id=com.VighneshNG.secretbase&hl=en&gl=US)
  - 🎓 I study Computer Science Engineering at BITS Pilani with a minor in Finance
 
-<br><br>
+<br>
+<center><img src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230"></center>
+<br>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
