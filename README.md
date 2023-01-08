@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi 👋, Welcome to my GitHub
 
-<!--
-**VighneshNatarajanGanesh/VighneshNatarajanGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighnesh-ng/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvighnesh@gmail.com?cc=f20190131@pilani.bits-pilani.ac.in;vighneshnganeshofficial@gmail.com)
+![Website](https://img.shields.io/website?logo=googleearth&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fvighneshnatarajanganesh.github.io%2Fpersonal-website%2F)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230">
+
+## Visiting Researcher, London Business School
+----------------------------------------------------
+
+I am Vighnesh N Ganesh
+ - 👨‍💼 Visiting Researcher at London Business School, working on algorithimic trading.
+ - 👨‍💻 Summer Analyst at Goldman Sachs, worked with the Lending core engineering team
+ - 📖 Authored a Chapter in the Data Science Text Book. [Buy 🛒](https://www.vde-verlag.de/books/537721/neue-dimensionen-in-data-science.html)
+ - 📱 Made a privacy focused chat app with 1000s of users [Playstore Listing](https://play.google.com/store/apps/details?id=com.VighneshNG.secretbase&hl=en&gl=US)
+ - 🎓 I study Computer Science Engineering at BITS Pilani with a minor in Finance
+
+<br><br>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+------------------------------
+
+```javascript
+const Vighnesh = {
+    pronouns: "He" | "Him",
+    nickname: "Vicky",
+    tendsToOveruse: ["Python", "Java"],
+    mostProudAbout: ["Publishing a book chapter at 20", "playstore app with 1000s of users", "driving to nature spots exhaustively"] // Note to Devs: some bad behavious due to overconfidence
+    
+    askMeAbout: ["Forecasting", "Deep Learning", "tech", "app dev", "Weekend Trip Ideas"],
+
+    technologies: {
+        machineLearning: {
+            packages: ["Tensorflow", "Keras", "PyTorch"],
+            concepts: ["Deep-Learning", "Time Series Forecasting","CV -GANs" ]
+        },
+        dataScience: {
+            packages: ["SciPy", "Sk-learn", "Pandas", "Numpy", "OpenCV", "Matplotlib"]
+        },
+        backEnd: {
+            js: ["Node"],
+        },
+        databases: ["Pandas", "mongo", "MySql"],
+        misc: ["can kinda play drums 🙃"]
+    }
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
