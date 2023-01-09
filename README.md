@@ -8,7 +8,6 @@
 <br>
 
 ## Visiting Researcher, London Business School
-----------------------------------------------------
 
 I am Vighnesh N Ganesh
  - 👨‍💼 Visiting Researcher at London Business School, working on algorithimic trading.
@@ -53,6 +52,7 @@ const Vighnesh = {
 ```
 
 ### 👨‍💻 My Work
+-----------------
 
 Most of my work is in private GitLab Repos the different organizations I work for. So I would like to redirect you to my [resume](https://vighneshnatarajanganesh.github.io/personal-website/pdfs/resume_data_science.pdf) / [personal website](https://vighneshnatarajanganesh.github.io/personal-website/). 
 
