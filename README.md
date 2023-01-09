@@ -17,7 +17,7 @@ I am Vighnesh N Ganesh
  - 🎓 I study Computer Science Engineering at BITS Pilani with a minor in Finance
 
 <br>
-<center><img src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230"></center>
+<img align ='center' src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230">
 <br>
 
 
@@ -50,6 +50,15 @@ const Vighnesh = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+<br><br>
+
+### 📊 My Stats
+-----------------
+
+
+
+<br><br>
 
 ### 👨‍💻 My Work
 -----------------
