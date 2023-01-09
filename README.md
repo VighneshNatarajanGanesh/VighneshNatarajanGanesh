@@ -17,8 +17,10 @@ I am Vighnesh N Ganesh
  - 🎓 I study Computer Science Engineering at BITS Pilani with a minor in Finance
 
 <br>
-<img align ='center' src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230">
+<p align="center">
+<img src="https://media.giphy.com/media/3o72FkreWNH9OlTtPq/giphy.gif" width="230">
 <br>
+</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
