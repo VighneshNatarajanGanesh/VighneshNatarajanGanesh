@@ -52,12 +52,13 @@ const Vighnesh = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
+<!-- 
 <br><br>
 
 ### 📊 My Stats
 -----------------
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VighneshNatarajanGanesh&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br><br>
