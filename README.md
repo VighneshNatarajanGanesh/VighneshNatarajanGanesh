@@ -67,7 +67,7 @@ const Vighnesh = {
 ### 👨‍💻 My Work
 -----------------
 
-### Most of my work is in private GitLab Repos the different organizations I work for. So I would like to redirect you to my [resume](https://vighneshnatarajanganesh.github.io/personal-website/pdfs/resume_data_science.pdf) / [personal website](https://vighneshnatarajanganesh.github.io/personal-website/). 
+### Most of my work is in private GitLab Repos of the different organizations I work for dur to my personal preference. So I would like to redirect you to my [resume](https://vighneshnatarajanganesh.github.io/personal-website/pdfs/resume_data_science.pdf) / [personal website](https://vighneshnatarajanganesh.github.io/personal-website/). 
 
 But if you'd like to, you could take a look at these!
 
