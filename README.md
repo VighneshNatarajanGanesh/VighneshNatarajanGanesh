@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighnesh-ng/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvighnesh@gmail.com?cc=f20190131@pilani.bits-pilani.ac.in;vighneshnganeshofficial@gmail.com)
-![Website](https://img.shields.io/website?logo=googleearth&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fvighneshnatarajanganesh.github.io%2Fpersonal-website%2F)
+[personal website](https://vighneshnatarajanganesh.github.io/personal-website/)
 
 <br>
 
@@ -68,7 +68,7 @@ I prefer writing my code in Notebooks to visualize them better!
 ### 👨‍💻 My Work
 -----------------
 
-### Most of my work is in private GitLab Repos of the different organizations I work for due to my personal preference. So I would like to redirect you to my [resume](https://vighneshnatarajanganesh.github.io/personal-website/pdfs/resume_data_science.pdf) / [personal website](https://vighneshnatarajanganesh.github.io/personal-website/). 
+### Most of my work is in private GitLab Repos of the different organizations I work for due to my personal preference. So I would like to redirect you to my [resume](https://vighneshnatarajanganesh.github.io/personal-website/pdfs/resume_data_science.pdf) / [personal website](https://vighneshnatarajanganesh.github.io/personal-website/)
 
 But if you'd like to, you could take a look at these!
 
