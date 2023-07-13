@@ -11,9 +11,9 @@
 I study Computer Science Engineering at BITS Pilani with a minor in Finance
 
  - ## 👨‍💼 Visiting Researcher at London Business School
- - ## 👨‍💻 Summer Analyst at Goldman Sachs
+ - ## 👨‍💻 Analyst at Goldman Sachs
  - ## 📖 Authored a Chapter in the Data Science Text Book. [Buy 🛒](https://www.vde-verlag.de/books/537721/neue-dimensionen-in-data-science.html)
- - ## 📱 Made a privacy focused chat app with 1000s of users [Playstore Listing](https://play.google.com/store/apps/details?id=com.VighneshNG.secretbase&hl=en&gl=US)
+ - ## 📱 Made a privacy-focused chat app with 1000s of users [Playstore Listing](https://play.google.com/store/apps/details?id=com.VighneshNG.secretbase&hl=en&gl=US)
 
 <br>
 <p align="center">
@@ -58,7 +58,7 @@ const Vighnesh = {
 ### 📊 My Stats
 -----------------
 
-I mostly prefer writing my code in Notebooks to visualize them better! 
+I prefer writing my code in Notebooks to visualize them better! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VighneshNatarajanGanesh&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
