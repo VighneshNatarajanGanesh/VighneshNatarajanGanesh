@@ -13,7 +13,6 @@ I study Computer Science Engineering at BITS Pilani with a minor in Finance
  - ## 👨‍💼 Visiting Researcher at London Business School
  - ## 👨‍💻 Analyst at Goldman Sachs
  - ## 📖 Authored a Chapter in the Data Science Text Book. [Buy 🛒](https://www.vde-verlag.de/books/537721/neue-dimensionen-in-data-science.html)
- - ## 📱 Made a privacy-focused chat app with 1000s of users [Playstore Listing](https://play.google.com/store/apps/details?id=com.VighneshNG.secretbase&hl=en&gl=US)
 
 <br>
 <p align="center">
