@@ -8,8 +8,9 @@
 <br>
 
 
-I study Computer Science Engineering at BITS Pilani with a minor in Finance
+I studied Computer Science Engineering at BITS Pilani with a minor in Finance
 
+ - ## 📈 Quant @ Millennium Managament
  - ## 👨‍💼 Visiting Researcher at London Business School
  - ## 👨‍💻 Analyst at Goldman Sachs
  - ## 📖 Authored a Chapter in the Data Science Text Book. [Buy 🛒](https://www.vde-verlag.de/books/537721/neue-dimensionen-in-data-science.html)
